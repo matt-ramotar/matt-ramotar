@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hey! 👋
 
-<!--
-**matt-ramotar/matt-ramotar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student at [App Academy](https:github.com/appacademy) training to be a software engineer. I have experience in `Javascript`, `Python`, `React`, `Redux`, `Node`, `Express`, `PostgreSQL`, `MongoDB`.
 
-Here are some ideas to get you started:
+- 🌱 Currently working on [Mighty](https://github.com/matt-ramotar/mighty) and [Paw Trails](https://github.com/matt-ramotar/pawtrails)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🧰 Previously worked for a `healthcare` `research-consulting` group. In college I studied `economics`, `biology`, `philosophy`
+
+- ☀️ Enjoy 🏃🏽‍♂️ running, 🥾 hiking, 🎿 skiing, 🎾 tennis
+
+- 🐕‍🦺 Best friend of a 2-year-old Golden Retriever named Tag!
+
+![Tag](tag.jpeg)
