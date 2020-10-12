@@ -6,7 +6,7 @@ I'm a student at [App Academy](https:github.com/appacademy) training to be a sof
 
 - 🌱 Currently working on [Mighty](https://github.com/matt-ramotar/mighty) and [Paw Trails](https://github.com/matt-ramotar/pawtrails)
 
-- 🧰 Previously worked for a `healthcare` `research-consulting` group. In college I studied `economics`, `biology`, `philosophy`
+- 🧰 Previously worked in `healthcare` `research-consulting`. In college I studied `economics`, `biology`, `philosophy`
 
 - ☀️ Enjoy 🏃🏽‍♂️ running, 🥾 hiking, 🎿 skiing, 🎾 tennis
 
