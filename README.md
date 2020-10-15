@@ -8,6 +8,6 @@ I'm a student at [App Academy](https:github.com/appacademy) training to be a sof
 
 - 🧰 Previously worked in `healthcare` `research-consulting`. In college I studied `economics`, `biology`, `philosophy`
 
-- ☀️ Enjoy 🏃🏽‍♂️ running, 🥾 hiking, 🎿 skiing, 🎾 tennis
+- ❤️ Enjoy 🏃🏽‍♂️ running, 🥾 hiking, 🎿 skiing, 🎾 tennis
 
 - 🐕‍🦺 Best friend of a 2-year-old Golden Retriever named Tag!
