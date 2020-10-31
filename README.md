@@ -4,7 +4,7 @@ I'm a student at [App Academy](https:github.com/appacademy) training to be a sof
 
 <img align="right" src="tag.jpeg" width="250"  />
 
-- 🌱 Currently working on [Mighty](https://github.com/matt-ramotar/mighty) and [Paw Trails](https://github.com/matt-ramotar/pawtrails)
+- 🌱 Currently working on [Strong](https://github.com/matt-ramotar/strong) and [Paw Trails](https://github.com/matt-ramotar/pawtrails)
 
 - 🧰 Previously worked in `healthcare` `research-consulting`. In college I studied `economics`, `biology`, `philosophy`
 
