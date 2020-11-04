@@ -1,6 +1,6 @@
 # Hey! 👋
 
-I'm a student at [App Academy](https:github.com/appacademy) training to be a software engineer. I have experience in `Javascript`, `Python`, `React`, `Redux`, `Node`, `Express`, `PostgreSQL`, `MongoDB`, `GraphQL`, `Apollo`.
+I'm a student at [App Academy](https:github.com/appacademy) training to be a software engineer. I have experience in `Javascript`, `Python`, `React`, `Redux`, `Node`, `Express`, `PostgreSQL`, `MongoDB`, `GraphQL`.
 
 <img align="right" src="tag.jpeg" width="250"  />
 
