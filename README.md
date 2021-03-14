@@ -1,6 +1,6 @@
 # Hey! 👋
 
-I'm a full stack engineer with experience in `JavaScript`, `Python`, `React`, `React Native`, `Next.js`, `Redux`, `GraphQL`, `Express`, `Flask`, `Node`, `PostgreSQL`, `MongoDB`.
+I'm a full stack engineer with experience in `JavaScript`, `TypeScript`, `Python`, `React`, `React Native`, `Next.js`, `Redux`, `GraphQL`, `Express`, `Flask`, `Node`, `PostgreSQL`, `MongoDB`.
 
 <img align="right" src="tag.jpeg" width="250"  />
 
