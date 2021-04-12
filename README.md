@@ -1,12 +1,12 @@
 # Hey! 👋
 
-I'm a full stack engineer with experience in `JavaScript`, `TypeScript`, `Python`, `React`, `React Native`, `Next.js`, `Redux`, `GraphQL`, `Express`, `Flask`, `Node`, `PostgreSQL`, `MongoDB`.
+I'm a full stack engineer with experience in `JavaScript`, `TypeScript`, `Python`, `Swift`, `SwiftUI`, `React`, `React Native`, `Next.js`, `Redux`, `GraphQL`, `Express`, `Flask`, `Node`, `PostgreSQL`, `MongoDB`.
 
 <img align="right" src="tag.jpeg" width="250"  />
 
-- 🌱 Currently working on [💪 Mighty](https://github.com/matt-ramotar/Mighty), [📱 Mighty Mobile](https://github.com/matt-ramotar/Mighty-Mobile), [🐕‍🦺 Paw Trails](https://github.com/matt-ramotar/pawtrails), [📈 Frugal](https://github.com/matt-ramotar/frugal), [🧩 Crossroads](https://github.com/crossroads-center-for-children), [🦄 Open Algo](https://github.com/open-algo)
+- 🌱 Building [💪 Mighty](https://github.com/mighty-app) and [🦄 Open Algo](https://github.com/open-algo)
 
-- 🧰 Previously worked in `health services` `research-consulting`. In college I studied `economics`, `biology`, `philosophy`
+- 🧰 Previously worked in `research-consulting`. In college I studied `economics`, `biology`, `philosophy`
 
 - ❤️ Enjoy 🏃🏽‍♂️ running, 🥾 hiking, 🎿 skiing, 🎾 tennis
 
